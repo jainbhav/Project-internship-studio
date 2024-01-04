@@ -1,1 +1,1 @@
-# Project-internship-studio
+# Project-internship-studio-Python
